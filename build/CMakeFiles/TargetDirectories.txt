@@ -1,0 +1,3 @@
+/home/cowcoww/CODE/serious/termite/build/CMakeFiles/termite.dir
+/home/cowcoww/CODE/serious/termite/build/CMakeFiles/edit_cache.dir
+/home/cowcoww/CODE/serious/termite/build/CMakeFiles/rebuild_cache.dir

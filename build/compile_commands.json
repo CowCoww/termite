@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/cowcoww/CODE/serious/termite/build",
+  "command": "/usr/bin/g++ -g -std=gnu++20 -o CMakeFiles/termite.dir/main.cpp.o -c /home/cowcoww/CODE/serious/termite/main.cpp",
+  "file": "/home/cowcoww/CODE/serious/termite/main.cpp",
+  "output": "/home/cowcoww/CODE/serious/termite/build/CMakeFiles/termite.dir/main.cpp.o"
+},
+{
+  "directory": "/home/cowcoww/CODE/serious/termite/build",
+  "command": "/usr/bin/g++ -g -std=gnu++20 -o CMakeFiles/termite.dir/src/terminal.cpp.o -c /home/cowcoww/CODE/serious/termite/src/terminal.cpp",
+  "file": "/home/cowcoww/CODE/serious/termite/src/terminal.cpp",
+  "output": "/home/cowcoww/CODE/serious/termite/build/CMakeFiles/termite.dir/src/terminal.cpp.o"
+},
+{
+  "directory": "/home/cowcoww/CODE/serious/termite/build",
+  "command": "/usr/bin/g++ -g -std=gnu++20 -o CMakeFiles/termite.dir/src/input.cpp.o -c /home/cowcoww/CODE/serious/termite/src/input.cpp",
+  "file": "/home/cowcoww/CODE/serious/termite/src/input.cpp",
+  "output": "/home/cowcoww/CODE/serious/termite/build/CMakeFiles/termite.dir/src/input.cpp.o"
+},
+{
+  "directory": "/home/cowcoww/CODE/serious/termite/build",
+  "command": "/usr/bin/g++ -g -std=gnu++20 -o CMakeFiles/termite.dir/src/canvas.cpp.o -c /home/cowcoww/CODE/serious/termite/src/canvas.cpp",
+  "file": "/home/cowcoww/CODE/serious/termite/src/canvas.cpp",
+  "output": "/home/cowcoww/CODE/serious/termite/build/CMakeFiles/termite.dir/src/canvas.cpp.o"
+},
+{
+  "directory": "/home/cowcoww/CODE/serious/termite/build",
+  "command": "/usr/bin/g++ -g -std=gnu++20 -o CMakeFiles/termite.dir/src/app.cpp.o -c /home/cowcoww/CODE/serious/termite/src/app.cpp",
+  "file": "/home/cowcoww/CODE/serious/termite/src/app.cpp",
+  "output": "/home/cowcoww/CODE/serious/termite/build/CMakeFiles/termite.dir/src/app.cpp.o"
+},
+{
+  "directory": "/home/cowcoww/CODE/serious/termite/build",
+  "command": "/usr/bin/g++ -g -std=gnu++20 -o CMakeFiles/termite.dir/src/clock.cpp.o -c /home/cowcoww/CODE/serious/termite/src/clock.cpp",
+  "file": "/home/cowcoww/CODE/serious/termite/src/clock.cpp",
+  "output": "/home/cowcoww/CODE/serious/termite/build/CMakeFiles/termite.dir/src/clock.cpp.o"
+}
+]
